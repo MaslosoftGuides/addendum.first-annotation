@@ -2,3 +2,15 @@
 
 This is repository with example project for
 blog post about [creating first PHP annotation](https://maslosoft.com/blog/2017/03/27/creating-your-first-php-annotation-with-addendum/)
+
+To initialize this project, invoke console command:
+
+```
+compose install
+```
+
+To see results call:
+
+```
+php type.php
+```
