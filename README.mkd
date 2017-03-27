@@ -1,2 +1,3 @@
-# addendum.first-annotation
-Addendum First Annotation Repo
+#[Addendum First Annotation](https://maslosoft.com/blog/2017/03/27/creating-your-first-php-annotation-with-addendum/)
+Addendum First Annotation Repository with example project for
+blog post about [creating first PHP annotation](https://maslosoft.com/blog/2017/03/27/creating-your-first-php-annotation-with-addendum/)
