@@ -6,7 +6,7 @@ blog post about [creating first PHP annotation](https://maslosoft.com/blog/2017/
 To initialize this project, invoke console command:
 
 ```
-compose install
+composer install
 ```
 
 To see results call:
