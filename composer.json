@@ -1,6 +1,6 @@
 {
 	"require": {
-		"maslosoft/addendum": "^5.0"
+		"maslosoft/addendum": "^7"
 	},
 	"autoload": {
 		"psr-4": {
